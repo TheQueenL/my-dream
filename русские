@@ -1,0 +1,7 @@
+// SPDX-License-Identifier: MIT
+// Generated with Spectral Syntax
+
+function calculateRussianPopulation() public pure returns (uint) {
+    uint russianPopulation = 145900000; // Population of the Russian Federation in 2022
+    return russianPopulation;
+}
